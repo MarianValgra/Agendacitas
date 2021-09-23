@@ -1,0 +1,15 @@
+C:\Hospitalizacion2\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\net5.0\HospiEnCasa.App.Persistencia.deps.json
+C:\Hospitalizacion2\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\net5.0\HospiEnCasa.App.Persistencia.runtimeconfig.json
+C:\Hospitalizacion2\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\net5.0\HospiEnCasa.App.Persistencia.runtimeconfig.dev.json
+C:\Hospitalizacion2\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\net5.0\HospiEnCasa.App.Persistencia.dll
+C:\Hospitalizacion2\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\net5.0\ref\HospiEnCasa.App.Persistencia.dll
+C:\Hospitalizacion2\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\net5.0\HospiEnCasa.App.Persistencia.pdb
+C:\Hospitalizacion2\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net5.0\HospiEnCasa.App.Persistencia.csproj.AssemblyReference.cache
+C:\Hospitalizacion2\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net5.0\HospiEnCasa.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hospitalizacion2\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net5.0\HospiEnCasa.App.Persistencia.AssemblyInfoInputs.cache
+C:\Hospitalizacion2\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net5.0\HospiEnCasa.App.Persistencia.AssemblyInfo.cs
+C:\Hospitalizacion2\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net5.0\HospiEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Hospitalizacion2\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net5.0\HospiEnCasa.App.Persistencia.dll
+C:\Hospitalizacion2\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net5.0\ref\HospiEnCasa.App.Persistencia.dll
+C:\Hospitalizacion2\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net5.0\HospiEnCasa.App.Persistencia.pdb
+C:\Hospitalizacion2\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net5.0\HospiEnCasa.App.Persistencia.genruntimeconfig.cache
