@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HospiEnCasa.App.Persistencia")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("HospiEnCasa.App.Dominio")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("HospiEnCasa.App.Persistencia")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HospiEnCasa.App.Persistencia")]
+[assembly: System.Reflection.AssemblyProductAttribute("HospiEnCasa.App.Dominio")]
+[assembly: System.Reflection.AssemblyTitleAttribute("HospiEnCasa.App.Dominio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
