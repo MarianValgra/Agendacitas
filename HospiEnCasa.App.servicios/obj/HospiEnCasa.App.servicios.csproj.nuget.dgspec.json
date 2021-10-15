@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usario\\Source\\Repos\\Agendacitas\\HospiEnCasa.App.servicios\\HospiEnCasa.App.servicios.csproj": {}
+    "C:\\Users\\usario\\source\\repos\\Agendacitas\\HospiEnCasa.App.servicios\\HospiEnCasa.App.servicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usario\\Source\\Repos\\Agendacitas\\HospiEnCasa.App.servicios\\HospiEnCasa.App.servicios.csproj": {
+    "C:\\Users\\usario\\source\\repos\\Agendacitas\\HospiEnCasa.App.servicios\\HospiEnCasa.App.servicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usario\\Source\\Repos\\Agendacitas\\HospiEnCasa.App.servicios\\HospiEnCasa.App.servicios.csproj",
+        "projectUniqueName": "C:\\Users\\usario\\source\\repos\\Agendacitas\\HospiEnCasa.App.servicios\\HospiEnCasa.App.servicios.csproj",
         "projectName": "HospiEnCasa.App.servicios",
-        "projectPath": "C:\\Users\\usario\\Source\\Repos\\Agendacitas\\HospiEnCasa.App.servicios\\HospiEnCasa.App.servicios.csproj",
+        "projectPath": "C:\\Users\\usario\\source\\repos\\Agendacitas\\HospiEnCasa.App.servicios\\HospiEnCasa.App.servicios.csproj",
         "packagesPath": "C:\\Users\\usario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usario\\Source\\Repos\\Agendacitas\\HospiEnCasa.App.servicios\\obj\\",
+        "outputPath": "C:\\Users\\usario\\source\\repos\\Agendacitas\\HospiEnCasa.App.servicios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\usario\\AppData\\Roaming\\NuGet\\NuGet.Config",
