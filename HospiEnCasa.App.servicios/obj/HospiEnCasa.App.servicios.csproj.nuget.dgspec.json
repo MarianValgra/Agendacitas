@@ -1,27 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Hospitalizacion2\\HospiEnCasa.App\\HospiEnCasa.App.Servicios\\HospiEnCasa.App.servicios.csproj": {}
+    "C:\\Users\\usario\\source\\repos\\Agendacitas\\HospiEnCasa.App.servicios\\HospiEnCasa.App.servicios.csproj": {}
   },
   "projects": {
-    "C:\\Hospitalizacion2\\HospiEnCasa.App\\HospiEnCasa.App.Servicios\\HospiEnCasa.App.servicios.csproj": {
+    "C:\\Users\\usario\\source\\repos\\Agendacitas\\HospiEnCasa.App.servicios\\HospiEnCasa.App.servicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hospitalizacion2\\HospiEnCasa.App\\HospiEnCasa.App.Servicios\\HospiEnCasa.App.servicios.csproj",
+        "projectUniqueName": "C:\\Users\\usario\\source\\repos\\Agendacitas\\HospiEnCasa.App.servicios\\HospiEnCasa.App.servicios.csproj",
         "projectName": "HospiEnCasa.App.servicios",
-        "projectPath": "C:\\Hospitalizacion2\\HospiEnCasa.App\\HospiEnCasa.App.Servicios\\HospiEnCasa.App.servicios.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Hospitalizacion2\\HospiEnCasa.App\\HospiEnCasa.App.Servicios\\obj\\",
+        "projectPath": "C:\\Users\\usario\\source\\repos\\Agendacitas\\HospiEnCasa.App.servicios\\HospiEnCasa.App.servicios.csproj",
+        "packagesPath": "C:\\Users\\usario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\usario\\source\\repos\\Agendacitas\\HospiEnCasa.App.servicios\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\usario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -69,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
